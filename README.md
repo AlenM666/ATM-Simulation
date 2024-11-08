@@ -4,7 +4,7 @@
 
 A simple ATM simulatino console aplication made in c++.
 
-<br><
+<br>
 
 ## Features
 
